@@ -1,0 +1,8 @@
+{
+    "data": [
+        {"category": "A", "value": 10},
+        {"category": "B", "value": 20},
+        {"category": "C", "value": 30},
+        {"category": "D", "value": 40}
+    ]
+}
